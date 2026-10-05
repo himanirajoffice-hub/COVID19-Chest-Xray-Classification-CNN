@@ -1,0 +1,7 @@
+data/
+keras_tuner_results/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.keras
+*.weights.h5
